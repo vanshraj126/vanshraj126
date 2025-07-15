@@ -7,7 +7,7 @@
 
 - 🎓 CSE student (B.Tech, Class of 2026)
 - 💻 Passionate about **Backend Development**, **AI/ML**, and **Data Analytics**
-- 💼 Currently doing an internship at **DMRC**, working on Power BI dashboards and AI forecasting models
+- 💼 Ex-intern at **DMRC**, worked on Power BI dashboards and AI forecasting models
 - 🛠️ Always exploring new tech and building real-world projects
 - 📫 Reach me at: **vanshraj126@gmail.com**
 
