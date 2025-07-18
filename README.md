@@ -27,13 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshraj126&show_icons=true&theme=tokyonight" alt="vanshraj126" />
-</p>
-
----
 
 ### 🏆 Certifications & Learning
 
